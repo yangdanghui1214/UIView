@@ -1,0 +1,12 @@
+include ':app',
+        ':code1_bezier',
+        ':code2_pathmeasure',
+        ':code3_animation',
+        ':code4_xfermode',
+        ':code5_velocitytracker_scroller',
+        ':code6_flowlayout',
+        ':code7_svg',
+        ':code8_canvas',
+        ':code9_paint',
+        ':lib_base'
+
